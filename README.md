@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭 I’m currently working on electronic stuffs.
+🔭 I love working on electronics and programming.
 
 📫 How to reach me: biyo669berk@gmail.com
 
