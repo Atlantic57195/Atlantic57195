@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+🔭 I’m currently working on electronic stuffs.
+📫 How to reach me: biyo669berk@gmail.com
+🌱 I’m currently learning electronics and programing.
 <!--
 **Atlantic57195/Atlantic57195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
